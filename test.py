@@ -1,6 +1,6 @@
 import os
 print("testing")
-print("test secret")_
+print("AKIAF6BAFJKR45SAWSZ2")
 import json 
 import sys
 a = 10
